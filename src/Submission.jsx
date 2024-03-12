@@ -59,7 +59,7 @@ const Submission = () => {
           href={
             showParam === "true" || name !== "Secret Key"
               ? "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-              : process.env.REACT_APP_CTF_SUMISSION_LINK
+              : import.meta.env.VITE_CTF_SUMISSION_LINK
           }
           target="_blank"
           rel="noopener noreferrer"
