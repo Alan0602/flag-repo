@@ -101,7 +101,7 @@ const Level1 = () => {
                 marginTop: "20px",
               }}
             >
-              pxohduq.ruj/{" "}
+              kxqw.djuhbd.olyh/{" "}
               <a href='notapdf.fpd' target="_blank" rel="noopener noreferrer">
                 <span
                   style={{
@@ -122,7 +122,7 @@ const Level1 = () => {
               + Muhammad Kutty Panaparambil Ismai's Son
             </p>
             <a
-              href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+              href="https://youtu.be/dkwZ_9dZUsA?si=myGcFuUyXzum7WXk"
               target="_blank"
               rel="noopener noreferrer"
             >

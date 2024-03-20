@@ -57,8 +57,8 @@ const Submission = () => {
         />
         <a
           href={
-            showParam === "true" || name !== "Secret Key"
-              ? "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+             name === "Secret Key"
+              ? "https://forms.gle/y1dZZ7Na2AKamya17"
               : import.meta.env.VITE_CTF_SUMISSION_LINK
           }
           target="_blank"
