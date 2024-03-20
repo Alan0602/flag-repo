@@ -8,7 +8,7 @@ import Submission from "./Submission";
 
 const routes = [
     {
-        path: "/level1",
+        path: "/",
         element: <Level1 />,
     },
     {
